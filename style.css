@@ -1,8 +1,12 @@
 h1{
     background-color: black;
     color: chartreuse;
+    padding: 12px 25px;
+    font-size: 2em;
 }
 p{
     background-color: black;
     color: cyan;
+    padding: 12px 25px;
+    font-size: 2em;
 }
